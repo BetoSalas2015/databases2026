@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Márgenes y espaciados generales -->
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="row_spacing">12dp</dimen>
+    <dimen name="section_spacing">32dp</dimen>
+
+    <!-- Tipografía -->
+    <dimen name="text_size_label">15sp</dimen>
+    <dimen name="text_size_value">16sp</dimen>
+    <dimen name="text_size_button">14sp</dimen>
+
+    <!-- Componentes -->
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="button_min_height">48dp</dimen>
+    <dimen name="button_padding_horizontal">16dp</dimen>
+</resources>
